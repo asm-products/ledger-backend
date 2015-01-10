@@ -1,6 +1,6 @@
 module Ledger.Config (getConfig) where
 
-import Paths_ledger_api (getDataFileName)
+import Paths_ledger_backend (getDataFileName)
 
 import Data.Configurator (Worth (Optional, Required), load)
 import Data.Configurator.Types (Config)
