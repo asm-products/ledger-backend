@@ -9,7 +9,7 @@ import System.FilePath ((</>))
 
 getConfig :: IO Config
 getConfig = do
-    path <- getFilePath "ledger-api.cfg"
+    path <- getFilePath "ledger-backend.cfg"
     paths <- getArgs
     let worths = Required path : map Optional paths
     load worths
