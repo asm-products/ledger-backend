@@ -10,7 +10,7 @@ Track your expenses.
 This is a product being built by the Assembly community. You can
 help push this idea forward by visiting <https://assembly.com/ledger>.
 
-This is the backend for [ledger-react][4].
+This is the backend for [ledger-frontend][4].
 
 - [Installation](#installation)
 - [Configuration](#configuration)
@@ -77,7 +77,7 @@ $ git push origin github/master:master
 [1]: https://github.com/asm-products/ledger-backend
 [2]: https://img.shields.io/travis/asm-products/ledger-backend/master.svg?style=flat
 [3]: https://travis-ci.org/asm-products/ledger-backend
-[4]: https://github.com/tfausak/ledger-react
+[4]: https://github.com/asm-products/ledger-frontend
 [5]: https://www.haskell.org/platform/
 [6]: https://github.com/bos/configurator
 [7]: data/ledger-backend.cfg
