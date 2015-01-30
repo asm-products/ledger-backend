@@ -2,6 +2,10 @@
 
 This package uses [Semantic Versioning][1].
 
+## v0.3.2 (2015-01-30)
+
+- Renamed project from tfausak/ledger-api to asm-products/ledger-backend.
+
 ## v0.3.1 (2014-12-25)
 
 - Fixed a bug that incorrectly calculated the maximum entry ID.
